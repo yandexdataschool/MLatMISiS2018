@@ -6,5 +6,5 @@ Machine Learning track for Physics at MISiS
 Please, make sure you
 - are familiar with Python basics
 - have a google account (the environment for the seminars will be Google colaboratory)
-- can run and understand this notebook: 
+- can run and understand this notebook: https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/00-Introduction_to_Python.ipynb
 
