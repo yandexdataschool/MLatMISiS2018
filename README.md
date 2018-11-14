@@ -10,3 +10,8 @@ Please, make sure you
   - https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/00-Introduction_to_Python.ipynb
   - https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/01-Introduction_to_useful_Python_libraries.ipynb
 
+
+## Seminar 1
+* [Basics of data handling](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/02-Basics_of_data_handling.ipynb)
+* [Performing maximum likelihood fit on a toy model](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/03-Simple_ML_Fit.ipynb)
+* [Maximum likelihood fit on real data from CERN](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/04-ML_Fit_On_CMS_OpenData.ipynb)
