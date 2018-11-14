@@ -14,4 +14,4 @@ Please, make sure you
 ## Seminar 1
 * [Basics of data handling](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/02-Basics_of_data_handling.ipynb) - [Direct colab link](https://colab.research.google.com/github/yandexdataschool/MLatMISiS2018/blob/master/01_lab/02-Basics_of_data_handling.ipynb)
 * [Performing maximum likelihood fit on a toy model](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/03-Simple_ML_Fit.ipynb) - [Direct colab link](https://colab.research.google.com/github/yandexdataschool/MLatMISiS2018/blob/master/01_lab/03-Simple_ML_Fit.ipynb)
-* [Maximum likelihood fit on real data from CERN](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/04-ML_Fit_On_CMS_OpenData.ipynb)
+* [Maximum likelihood fit on real data from CERN](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/01_lab/04-ML_Fit_On_CMS_OpenData.ipynb) - [Direct colab link](https://colab.research.google.com/github/yandexdataschool/MLatMISiS2018/blob/master/01_lab/04-ML_Fit_On_CMS_OpenData.ipynb)
