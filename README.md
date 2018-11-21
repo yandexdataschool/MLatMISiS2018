@@ -19,3 +19,4 @@ Please, make sure you
 
 ## Seminar 2
 * [Linear models (toy data)](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/02_lab/01-LinearModels_ToyData.ipynb) - [Direct colab link](https://colab.research.google.com/github/yandexdataschool/MLatMISiS2018/blob/master/02_lab/01-LinearModels_ToyData.ipynb)
+* [Linear models (LHCb PID)](https://github.com/yandexdataschool/MLatMISiS2018/blob/master/02_lab/02-LinearModels_LHCb_PID.ipynb) - [Direct colab link](https://colab.research.google.com/github/yandexdataschool/MLatMISiS2018/blob/master/02_lab/02-LinearModels_LHCb_PID.ipynb)
